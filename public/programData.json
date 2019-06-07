@@ -1,0 +1,26 @@
+{
+	"1" : {
+		"title": "Yo Gabba Gabba",
+		"thumbURL" : "https://appletvappiamjoncannon.s3-us-west-2.amazonaws.com/yogabbagabba-og.jpg",
+		"videoURL" : "https://appletvappiamjoncannon.s3-us-west-2.amazonaws.com/Designer.mp4",
+		"dataURL" : "https://appletvappiamjoncannon.s3-us-west-2.amazonaws.com/logicTree.json"
+	},
+	"2" : {
+		"title": "Power Rangers",
+		"thumbURL" : "https://appletvappiamjoncannon.s3-us-west-2.amazonaws.com/powerrangers.jpeg",
+		"videoURL" : "https://appletvappiamjoncannon.s3-us-west-2.amazonaws.com/coverr-motorcycle-diaries-1558727278412.mp4",
+		"dataURL" : "https://appletvappiamjoncannon.s3-us-west-2.amazonaws.com/logicTree.json"
+	},
+	"3" : {
+		"title": "Sesame Street",
+		"thumbURL" : "https://appletvappiamjoncannon.s3-us-west-2.amazonaws.com/sesame.jpeg",
+		"videoURL" : "https://appletvappiamjoncannon.s3-us-west-2.amazonaws.com/coverr-palm-hair-1559212695363.mp4",
+		"dataURL" : "https://appletvappiamjoncannon.s3-us-west-2.amazonaws.com/logicTree.json"
+	},
+	"4" : {
+		"title": "The Simpsons",
+		"thumbURL" : "https://appletvappiamjoncannon.s3-us-west-2.amazonaws.com/220px-The_Simpsons–S23.jpg",
+		"videoURL" : "https://appletvappiamjoncannon.s3-us-west-2.amazonaws.com/bach-handel-corelli.mp4",
+		"dataURL" : "https://appletvappiamjoncannon.s3-us-west-2.amazonaws.com/logicTree.json"
+	}
+}
